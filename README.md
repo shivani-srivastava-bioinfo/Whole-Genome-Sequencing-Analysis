@@ -1,6 +1,6 @@
 # GATK4 Germline Variant Calling Pipeline
 
-### Whole Genome Sequencing — SNP & INDEL Discovery (hg38)
+### Whole Genome Sequencing Analysis
 
 A complete, reproducible germline variant calling pipeline following **GATK4 Best Practices** — from raw paired-end FASTQ files to variant-called VCF, with every step documented and tested.
 
