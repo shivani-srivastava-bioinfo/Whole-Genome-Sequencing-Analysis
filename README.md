@@ -283,7 +283,6 @@ gatk HaplotypeCaller \
 
 **Disk space:** Ensure at least **200 GB** of free disk. The uncompressed SAM file alone can exceed 50–100 GB for WGS at 30× coverage.
 
-
 ---
 
 ## Repository Structure
